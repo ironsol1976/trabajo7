@@ -1,0 +1,107 @@
+    1  systemctl status ssh
+    2  ps -fc apache2
+    3  cat /var/run/apache2.pid
+    4  systemctl status apache2
+    5  sudo apache2 start
+    6  apachectl -v
+    7  apachectl -V
+    8  sudo apachectl -V
+    9  sudo apt update && sudo apt -y update
+   10  sudo apt -y install apache2
+   11  systemctl status apache2
+   12  systemctl status apache2
+   13  ifconfig
+   14  ip a
+   15  ip adress
+   16  ip addres
+   17  ip a
+   18  clear
+   19  ip a
+   20  apt-get install net-tools
+   21  clear
+   22  ifconfig
+   23  apt-get install net-tools
+   24  ifconfig
+   25  sudo apt-get update
+   26  ifconfig
+   27  ip a
+   28  ip a
+   29  ifconfig
+   30  ip addres
+   31  cdetc
+   32  cd etc
+   33  ls
+   34  cd
+   35  ls
+   36  ls
+   37  cd etc
+   38  cd etc
+   39  cd home
+   40  cd /home
+   41  ls
+   42  cd /william
+   43  ls
+   44  cd william
+   45  ls
+   46  su
+   47  chmod 746 interfaces.d
+   48  vim interfaces.d
+   49  sudo apt-get install vim
+   50  vim interfaces.d
+   51  sudo apt-get update
+   52  sudo apt-get install apache2
+   53  sudo apt-get install curl
+   54  curl http://127.0.0.1/
+   55  curl http : // 127 . 0 . 0 . 1 /
+   56  sudo apt-get update
+   57  sudo apt-get install curl
+   58  sudo apt-get update
+   59  sudo apt.get install git
+   60  sudo apt-get install git
+   61  sudo apt-get update
+   62  apt install git
+   63  git
+   64  apt update
+   65  history
+   66  history » comandos.txt
+   67  history > comandos.txt
+   68  cd home
+   69  cd etc
+   70  ls
+   71  cat comandos.txt
+   72  ls
+   73  cd
+   74  cd etc
+   75  ls
+   76  cd /etc
+   77  cd /network
+   78  cd network
+   79  cat interfaces
+   80  get update
+   81  apt update
+   82  apt install git
+   83  sudo apt-get install apache2
+   84  sudo apt-get install curl
+   85  curl http://127.0.0.1/
+   86  sudo service apache2 recarga
+   87  sudo service apache2 restart
+   88  vim
+   89  sudo vim /usr/lib/cgi-bin/hw.sh
+   90  sudo vim /usr/lib/cgi-bin/hw.sh
+   91  sudo chmod + x /usr/lib/cgi-bin/hw.sh
+   92  sudo chmod +x /usr/lib/cgi-bin/hw.sh
+   93* 
+   94  sudo  /usr/lib/cgi-bin/hw.sh
+   95  sh  /usr/lib/cgi-bin/hw.sh
+   96  curl​ ​ http : // 127 . 0 . 0 . 1 / cgi - bin / hw . sh
+   97  curl​ ​ http://127.0.0.1/cgi-bin/hw.sh
+   98  sudo apt-get install curl
+   99  curl​ ​ http://127.0.0.1/cgi-bin/hw.sh
+  100  sudo curl​ ​ http://127.0.0.1/cgi-bin/hw.sh
+  101  curl​ ​ http : // 127 . 0 . 0 . 1 / cgi - bin / hw . sh
+  102  curl​ ​ http : // 127 . 0 . 0 . 1 /
+  103  curl​ ​ http://127.0.0.1/
+  104  sudo apt install git
+  105  mkdir ejersicio7
+  106  cd ejersicio7
+  107  history > comandoshistorial.txt
